@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "POWELIKS: Malware Hides in Windows Registry"
+date:   2015-01-09 15:45:00
+categories: infosec
+---
+
+*When executed, TROJ_POWELIKS.A downloads files, which can cause further system infection. Systems affected by this malware risk being infected by other malware, thus causing further system infection. In addition, it has the capability to steal system information, which may be used by cybercriminals to launch other attacks.*
+
+[Trend Micro Security Intelligence Blog] [trend_micro]
+
+[trend_micro]: http://blog.trendmicro.com/trendlabs-security-intelligence/poweliks-malware-hides-in-windows-registry/
