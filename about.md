@@ -8,7 +8,7 @@ Bachelors degree in Computer Science with a focus in Cyber Security.
 Previously a cyber spook for a three letter Goverment Agency and currently working as a Cyber Security Engineer in the Retail Industry.
 
 Interests include, but not limited to:
-+ Web Application Exploitation
+* Web Application Exploitation
 + Software Reverse Engineering
 + Python
 + Functional Programming Languages
