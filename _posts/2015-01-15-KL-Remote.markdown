@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote Overlay Virtual Mugging Toolkit"
-date: 2015-01-15
+date: {{ site.time | date_to_string }}
 categories: infosec
 ---
 
