@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Peerio: Secure Messaging and file sharing made easy"
+date: {{site.time | date_to_string }}
+categories: infosec
+---
+
+[Peerio][peer_io] is a new, open source application with end-to-end encryption for secure messaging and filesharing.
+It integrates cloud storage with a messaging platform and it's available for Chrome, Windows and Mac.
+
+[peer_io]: https://www.peerio.com/
