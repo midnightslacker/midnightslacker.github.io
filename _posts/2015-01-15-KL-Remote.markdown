@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Remote Overlay Virtual Mugging Toolkit"
+date: 2015-01-14
+categories: infosec
+---
+
+*In December 2014, IBM Security Trusteer researchers discovered a previously unpublished remote overlay toolkit called KL-Remote. This toolkit performs a “virtual mugging” by remotely taking over infected computers and executing fraudulent transactions from an end user’s computer without his or her knowledge.*
+
+[Remote Overlay Virtual Mugging Toolkit Targeting Brazilian Online Banks Discovered by IBM Trusteer][IBM]
+
+[IBM]: http://securityintelligence.com/remote-overlay-virtual-mugging-toolkit-targeting-brazilian-online-banking-discovered-by-ibm-trusteer/
