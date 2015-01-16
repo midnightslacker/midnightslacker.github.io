@@ -5,7 +5,7 @@ date:2015-01-16
 categories: infosec
 ---
 
-![Google Vs Microsoft]({{ site.url }}/assets/GvsM.jpg)
+![Google Vs Microsoft]({{ site.url }}/assets/GvsM.png)
 
 Google has discovered yet another bug in Microsoft's Windows Operating System. If you haven't been paying attention, get caught up [here.][zdnet]
 This time, the bug was found in CryptProtectMemory function found in Windows 7 and Windows 8.1.
