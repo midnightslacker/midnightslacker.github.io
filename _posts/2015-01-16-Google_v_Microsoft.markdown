@@ -1,6 +1,6 @@
 ---
 layout:post
-title:Google discloses 3rd Microsoft "Zero Day" 
+title: "Google discloses 3rd Microsoft 'Zero Day'" 
 date:2015-01-16
 categories: infosec
 ---
